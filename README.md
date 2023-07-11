@@ -1,2 +1,2 @@
 # conference-2003
-GUNet 2003 Conference material
+Υλικό ημερίδας GUNet Ιουνίου 2003
